@@ -1,0 +1,2 @@
+[0.263s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'metadata']
+[0.263s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, main=<bound method MetadataVerb.main of <colcon_metadata.verb.metadata.MetadataVerb object at 0x7f6cb74452b0>>, subverb_name=None, verb_extension=<colcon_metadata.verb.metadata.MetadataVerb object at 0x7f6cb74452b0>, verb_name='metadata', verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f6cb72e6340>)

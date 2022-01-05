@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlesim",
+  "non_idl_tuples": [
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:action/RotateAbsolute.action",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:msg/Color.msg",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:msg/Pose.msg",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:srv/Kill.srv",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:srv/SetPen.srv",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:srv/Spawn.srv",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:srv/TeleportAbsolute.srv",
+    "/home/cclehui/go_workspace/src/github.com/cclehui/study_ros/tutorials/src/turtlesim:srv/TeleportRelative.srv"
+  ]
+}

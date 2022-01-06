@@ -1,3 +1,6 @@
 *.swp
 *.swn
 *.swo
+tutorials/build/
+tutorials/log/
+tutorials/install/
